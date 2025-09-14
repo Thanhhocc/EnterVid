@@ -3,7 +3,7 @@
 const videos = [
     {
         id: 1,
-        title: 'Hành Trình Khám Phá Thiên Nhiên Kỳ Thú',
+        title: 'Hot tiktoker cà hẩy, bắn tinh siêu mạnh',
         thumbnail: 'https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=600',
         videoSrc: 'https://videos.pexels.com/video-files/854251/854251-hd_1920_1080_25fps.mp4',
         description: 'Cùng chiêm ngưỡng những cảnh quay tuyệt đẹp về núi non hùng vĩ và những hồ nước trong xanh.'
