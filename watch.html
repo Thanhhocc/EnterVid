@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đang xem video</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <a href="/" class="back-link"><h1>Video Hub 🎬</h1></a>
+    </header>
+
+    <div class="watch-page-container">
+        <main class="main-content">
+            <div id="video-player-container">
+                </div>
+            <h2 id="video-title"></h2>
+            <p id="video-description"></p>
+
+            <div class="in-content-ad">
+                [ Quảng cáo ở đây ]
+            </div>
+        </main>
+        
+        <aside class="sidebar">
+            <h3>Xem thêm video khác</h3>
+            <div id="recommendations">
+                </div>
+        </aside>
+    </div>
+
+    <footer class="ad-banner-bottom">
+        [ Phần quảng cáo ở đây ]
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        // Chỉ chạy hàm render trang xem video
+        renderWatchPage();
+    </script>
+</body>
+</html>
