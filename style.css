@@ -47,11 +47,17 @@ header h1 {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 20px;
-    font-size: 1.1em;
     position: sticky;
     bottom: 0;
     width: 100%;
+    
+    /* Thêm các dòng dưới đây để sửa lỗi tràn */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Quan trọng: Ẩn phần bị tràn */
+    min-height: 90px; /* Đảm bảo chiều cao đủ cho quảng cáo */
+    padding: 0; /* Bỏ padding cũ */
 }
 
 /* --- TRANG CHỦ: Lưới video --- */
