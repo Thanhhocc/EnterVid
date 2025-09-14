@@ -4,7 +4,7 @@ const videos = [
     {
         id: 1,
         title: 'Hot tiktoker cà hẩy, bắn tinh siêu mạnh. Link full: https://link2m.com/HbTP7TT',
-        thumbnail: 'entervid1anh.wepb',
+        thumbnail: 'entervid1anh.png',
         videoSrc: 'entervid1video.mp4',
         description: 'Đã đẹp trai rồi mà bắn tinh còn mạnh nữa thì ai chịu nổi'
     },
