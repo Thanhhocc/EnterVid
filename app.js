@@ -3,32 +3,12 @@
 const videos = [
     {
         id: 1,
-        title: 'Hot tiktoker cà hẩy, bắn tinh siêu mạnh',
-        thumbnail: 'https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=600',
-        videoSrc: 'https://videos.pexels.com/video-files/854251/854251-hd_1920_1080_25fps.mp4',
-        description: 'Cùng chiêm ngưỡng những cảnh quay tuyệt đẹp về núi non hùng vĩ và những hồ nước trong xanh.'
+        title: 'Hot tiktoker cà hẩy, bắn tinh siêu mạnh. Link full: https://link2m.com/HbTP7TT',
+        thumbnail: 'entervid1anh.wepb',
+        videoSrc: 'entervid1video.mp4',
+        description: 'Đã đẹp trai rồi mà bắn tinh còn mạnh nữa thì ai chịu nổi'
     },
-    {
-        id: 2,
-        title: 'Thành Phố Về Đêm Từ Trên Cao',
-        thumbnail: 'https://images.pexels.com/photos/236683/pexels-photo-236683.jpeg?auto=compress&cs=tinysrgb&w=600',
-        videoSrc: 'https://videos.pexels.com/video-files/5524953/5524953-hd_1920_1080_30fps.mp4',
-        description: 'Một góc nhìn khác về thành phố sôi động khi màn đêm buông xuống, lung linh với hàng triệu ánh đèn.'
-    },
-    {
-        id: 3,
-        title: 'Sóng Biển Dịu Êm Dưới Ánh Hoàng Hôn',
-        thumbnail: 'https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=600',
-        videoSrc: 'https://videos.pexels.com/video-files/857251/857251-hd_1920_1080_25fps.mp4',
-        description: 'Thư giãn với tiếng sóng vỗ và cảnh hoàng hôn rực rỡ trên biển.'
-    },
-    {
-        id: 4,
-        title: 'Dòng Suối Mát Lạnh Trong Rừng Sâu',
-        thumbnail: 'https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600',
-        videoSrc: 'https://videos.pexels.com/video-files/856003/856003-hd_1920_1080_25fps.mp4',
-        description: 'Khám phá vẻ đẹp hoang sơ của khu rừng và lắng nghe tiếng suối chảy róc rách.'
-    },
+    
 ];
 
 // --- HÀM CHO TRANG CHỦ ---
